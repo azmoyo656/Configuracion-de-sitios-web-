@@ -7,8 +7,6 @@ class ControladorRuta{
 		return "http://localhost/proyecto/";
 
 	}
-	
 
 
-	
 }
